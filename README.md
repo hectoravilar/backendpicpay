@@ -1,4 +1,4 @@
-# PicPay Backend
+# PicPay Backend Service
 
 A Spring Boot backend application for PicPay payment system implementation.
 
